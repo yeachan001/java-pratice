@@ -11,9 +11,19 @@
             "id": "1c595e2cad2f5142",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "6091691319d74470",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README/무제.md",
+                "file": "무제.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +31,8 @@
               "title": "무제"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,9 +182,11 @@
   },
   "active": "b21f288afcbcd36a",
   "lastOpenFiles": [
-    "README.md",
     "README/무제.md",
+    "무제.md",
+    "무제",
     "무제 1",
+    "README.md",
     "untitled2/src 1/Main.java",
     "untitled2/src 1",
     "create a link.md",
