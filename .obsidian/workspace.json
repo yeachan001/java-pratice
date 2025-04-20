@@ -161,14 +161,16 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1c595e2cad2f5142",
   "lastOpenFiles": [
-    "mintty.2025-04-20_17-41-41.png",
+    "무제.canvas",
     "create a link.md",
     "Untitled.md",
+    "mintty.2025-04-20_17-41-41.png",
     "새 폴더",
     "Untitled.canvas",
     "Welcome.md",
