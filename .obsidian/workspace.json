@@ -21,14 +21,12 @@
             "id": "6091691319d74470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "무제.md",
-                "mode": "source",
-                "source": false
+                "file": "README.pdf"
               },
-              "icon": "lucide-file",
-              "title": "무제"
+              "icon": "lucide-file-text",
+              "title": "README"
             }
           }
         ],
@@ -180,16 +178,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b21f288afcbcd36a",
+  "active": "6091691319d74470",
   "lastOpenFiles": [
+    "create a link.md",
+    "README.pdf",
     "README/무제.md",
-    "무제.md",
-    "무제",
-    "무제 1",
     "README.md",
+    "무제.md",
+    "README",
+    "무제 1",
     "untitled2/src 1/Main.java",
     "untitled2/src 1",
-    "create a link.md",
     "README",
     "무제.canvas",
     "Welcome.md",
