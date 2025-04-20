@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c595e2cad2f5142",
+  "active": "b21f288afcbcd36a",
   "lastOpenFiles": [
     "README.md",
     "README/무제.md",
