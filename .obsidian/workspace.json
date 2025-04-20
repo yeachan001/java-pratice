@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "73594a567a01e593",
+        "id": "7ba02ddeaf709853",
         "type": "tabs",
         "children": [
           {
-            "id": "1c595e2cad2f5142",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
-            "id": "6091691319d74470",
+            "id": "72c4bbc7a4220d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +21,7 @@
               "title": "무제"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,15 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6091691319d74470",
+  "active": "72c4bbc7a4220d3a",
   "lastOpenFiles": [
+    "README/무제.md",
+    "무제.md",
     "README.pdf",
     "README 1.pdf",
     "Untitled.md",
     "create a link.md",
-    "README/무제.md",
     "README.md",
-    "무제.md",
     "README",
     "무제 1",
     "untitled2/src 1/Main.java",
