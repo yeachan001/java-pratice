@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-git",
+	"name": "Obsidian Git",
+	"version": "2.32.1",
+	"minAppVersion": "0.12.0",
+	"description": "Back up your Obsidian.md vault to a remote Git repository (e.g. GitHub).",
+	"author": "denolehov",
+	"authorUrl": "https://github.com/denolehov",
+	"isDesktopOnly": true
+}
