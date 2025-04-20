@@ -21,12 +21,14 @@
             "id": "6091691319d74470",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "README.pdf"
+                "file": "README/무제.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "README"
+              "icon": "lucide-file",
+              "title": "무제"
             }
           }
         ],
@@ -180,8 +182,8 @@
   },
   "active": "6091691319d74470",
   "lastOpenFiles": [
-    "README 1.pdf",
     "README.pdf",
+    "README 1.pdf",
     "Untitled.md",
     "create a link.md",
     "README/무제.md",
