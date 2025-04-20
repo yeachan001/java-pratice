@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "README/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "무제"
             }
           }
         ]
@@ -171,15 +171,17 @@
   },
   "active": "1c595e2cad2f5142",
   "lastOpenFiles": [
+    "README.md",
+    "README/무제.md",
+    "무제 1",
     "untitled2/src 1/Main.java",
     "untitled2/src 1",
     "create a link.md",
-    "무제",
+    "README",
     "무제.canvas",
     "Welcome.md",
     "mintty.2025-04-20_17-41-41.png",
     "Untitled.md",
-    "README.md",
     "새 폴더",
     "Untitled.canvas",
     "Untitled",
