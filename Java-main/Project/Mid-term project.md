@@ -22,16 +22,3 @@
 		- 사용자는 누구인가?
 		- 그 사용자가 얻을 수 있는 이점은?
 
-### (산출물2) README 파일 PDF 파일
-
-- [Obsidian](../Utils/Obsidian.md)에서 PDF로 내보내기 사용
-	![](attachments/Pasted%20image%2020250405164022.png)
-	
-# 제출
-
-## 자바3
-
-- 제출
-	- https://forms.gle/Sgj8eAELm1zSgJrD6
-- 제출 확인
-	- https://docs.google.com/spreadsheets/d/1rjOQAx1Q0s-y4Su9p6XefEvaHYCJMkGFY8xz7k
