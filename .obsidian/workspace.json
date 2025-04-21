@@ -11,10 +11,12 @@
             "id": "72c4bbc7a4220d3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "pdf",
+              "state": {
+                "file": "README.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "README"
             }
           }
         ]
@@ -167,16 +169,17 @@
   },
   "active": "72c4bbc7a4220d3a",
   "lastOpenFiles": [
+    "README/무제.md",
+    "무제.md",
+    "무제",
     "무제.canvas",
     "2025-04-21.md",
     "README.md",
     "README 1.md",
-    "무제.md",
     "README.pdf",
     "아무거나.md",
     "create a link.md",
     "Untitled.md",
-    "README/무제.md",
     "README 1.pdf",
     "README",
     "무제 1",
