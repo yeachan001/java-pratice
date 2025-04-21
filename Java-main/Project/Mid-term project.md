@@ -34,11 +34,4 @@
 - 제출
 	- https://forms.gle/Sgj8eAELm1zSgJrD6
 - 제출 확인
-	- https://docs.google.com/spreadsheets/d/1rjOQAx1Q0s-y4Su9p6XefEvaHYCJMkGFY8xz7kvfUt0/edit?usp=sharing
-
-## 자바4
-
-- 제출
-	- https://forms.gle/rWVZu2w89bVyaUNy9
-- 제출 확인
-	- https://docs.google.com/spreadsheets/d/1iWpx4kBsgFvvvRdlIxyGls92cbq_xSXE1mexXqgXMTk/edit?usp=sharing
+	- https://docs.google.com/spreadsheets/d/1rjOQAx1Q0s-y4Su9p6XefEvaHYCJMkGFY8xz7k
