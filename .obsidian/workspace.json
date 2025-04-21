@@ -11,12 +11,14 @@
             "id": "72c4bbc7a4220d3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "README.pdf"
+                "file": "Java-main/Project/Mid-term project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "README"
+              "icon": "lucide-file",
+              "title": "Mid-term project"
             }
           }
         ]
@@ -170,6 +172,10 @@
   "active": "72c4bbc7a4220d3a",
   "lastOpenFiles": [
     "Java-main/attachments/Pasted image 20250303211432.png",
+    "Java-main/Project/Mid-term project.md",
+    "Java-main/Lecture/Week_07/Week_07.md",
+    "Java-main/Lecture/Week_07/practice/Practice_7-1.md",
+    "README.pdf",
     "Java-main/attachments",
     "Java-main/Utils/attachments/image 9.png",
     "Java-main/Utils/attachments/image 8.png",
@@ -180,7 +186,6 @@
     "Java-main/Utils/attachments/image 3.png",
     "Java-main/Utils/attachments/image 22.png",
     "Java-main/Utils/attachments/image 21.png",
-    "Java-main/Utils/attachments/image 20.png",
     "Java-main/Utils/attachments",
     "Java-main/Utils/SVN.md",
     "Java-main/Utils/Obsidian.md",
@@ -194,7 +199,6 @@
     "Java-main/Utils/Figma.md",
     "Java-main/Utils",
     "Java-main/Project/attachments",
-    "Java-main/Project/Mid-term project.md",
     "Java-main/Project/Final-term Project.md",
     "Java-main/Project",
     "Java-main/Notice/실습문제 제출.md",
@@ -211,10 +215,7 @@
     "Java-main/Lecture/Week_09/practice/Practice_9-1.md",
     "Java-main/Lecture/Week_09/practice",
     "Java-main/Lecture/Week_09/Week_09.md",
-    "Java-main/Lecture/Week_09",
     "Java-main/Lecture/Week_07/practice/Practice_7-2.md",
-    "Java-main/Lecture/Week_07/practice/Practice_7-1.md",
-    "Java-main/Lecture/Week_07/Week_07.md",
     "무제.canvas",
     "Untitled.canvas"
   ]
