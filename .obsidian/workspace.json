@@ -11,11 +11,13 @@
             "id": "72c4bbc7a4220d3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "README.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "README"
             }
           }
@@ -167,16 +169,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72c4bbc7a4220d3a",
+  "active": "b21f288afcbcd36a",
   "lastOpenFiles": [
-    "아무거나.md",
+    "README 1.md",
+    "README.md",
     "무제.md",
     "README.pdf",
+    "아무거나.md",
+    "create a link.md",
+    "Untitled.md",
     "README/무제.md",
     "README 1.pdf",
-    "Untitled.md",
-    "create a link.md",
-    "README.md",
     "README",
     "무제 1",
     "untitled2/src 1/Main.java",
